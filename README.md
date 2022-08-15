@@ -1,3 +1,5 @@
-# CNS_Tutorial 3
+# DSA and RSA Implementation
 
-Download the Repository and run CNS_Tutorial3.sln
+Download the Repository and open CNS_Tutorial3.sln
+
+DES and RSA implemented with a GUI to interact
